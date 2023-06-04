@@ -12,7 +12,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 **新闻资讯**
 ======
-[2023.12] One paper is accepted by ISPRS P&RS (link, code) !
+**[2023.12]** One paper is accepted by ISPRS P&RS (link, code) !
 
 **[2023.09]** One paper is accepted by 武汉大学学报(信息科学版) (link) !
 
