@@ -7,5 +7,3 @@ date: 2021-03
 venue:
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: '李瑞祥, 赵海涛, 葛小三, 袁占良.[多匹配策略融合的无人机影像匹配方法](http://academicpages.github.io/files/paper1.pdf)[J].测绘科学,2021,46(3):87-95.'
----
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
