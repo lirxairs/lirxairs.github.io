@@ -1,14 +1,14 @@
 # main links links
 main:
-  - title: "科研成果"
-    url: /publications/
+  - title: "个人介绍"
+    url: /teaching/ 
 
-  - title: "Talks"
+  - title: "新闻公告"
     url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
     
+  - title: "科研成果"
+    url: /publications/    
+   
   - title: "Portfolio"
     url: /portfolio/
         
