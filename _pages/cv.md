@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in College of Civil Engineering, Henan University of Engineering, 2016
+* M.S. in School of Surveying and Land Information Engineering, Henan Polytechnic University, 2021
+* Ph.D in School of Cyber Science and Engineering, Wuhan University, 2026 (expected). Supervisor: Prof. Mi Wang
 
 Work experience
 ======
