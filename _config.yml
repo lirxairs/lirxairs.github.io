@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "李瑞祥"
   avatar           : "profile.tif"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "武汉大学国家网络安全学院博士生"
+  location         : "武汉, 中国"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=k9H8a5EAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/Ruixiang-Li-10"
