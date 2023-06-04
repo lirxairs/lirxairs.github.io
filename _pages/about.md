@@ -13,10 +13,15 @@ This is the front page of a website that is powered by the [academicpages templa
 新闻资讯
 ======
 [2023.12] One paper is accepted by ISPRS P&RS (link, code) !
+
 [2023.09] One paper is accepted by 武汉大学学报(信息科学版) (link) !
+
 [2023.08] One paper is accepted by IEEE TGRS (link, code) !
+
 [2023.06] One paper is accepted by IEEE JSTARS (link, code) !
+
 [2023.05] One paper is accepted by RS (link, code) !
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
