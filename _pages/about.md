@@ -12,15 +12,15 @@ This is the front page of a website that is powered by the [academicpages templa
 
 **新闻资讯**
 ======
-<font color=red>**[2023.12]**</font><br /> One paper is accepted by ISPRS P&RS (link, code) !
+**<font color=red>[2023.12]</font>** One paper is accepted by ISPRS P&RS (link, code) !
 
-<font color=red>**[2023.09]**</font><br /> One paper is accepted by 武汉大学学报(信息科学版) (link) !
+**<font color=red>[2023.09]</font>** One paper is accepted by 武汉大学学报(信息科学版) (link) !
 
-<font color=red>**[2023.08]**</font><br /> One paper is accepted by IEEE TGRS (link, code) !
+**<font color=red>[2023.08]</font>** One paper is accepted by IEEE TGRS (link, code) !
 
-<font color=red>**[2023.06]**</font><br /> One paper is accepted by IEEE JSTARS (link, code) !
+**<font color=red>[2023.06]</font>** One paper is accepted by IEEE JSTARS (link, code) !
 
-<font color=red>**[2023.05]**</font><br /> One paper is accepted by RS (link, code) !
+**<font color=red>[2023.05]</font>** One paper is accepted by RS (link, code) !
 
 **研究兴趣**
 ======
