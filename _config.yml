@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "首页"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "李瑞祥"
-description              : &description "个人主页"
+name                     : &name "Ruixiang Li"
+description              : &description "personal description"
 url                      : https://lirxairs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lirxairs/lirxairs.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "李瑞祥"
+  name             : "Ruixiang Li"
   avatar           : "profile.jpg"
-  bio              : "武汉大学博士生"
-  location         : "武汉, 中国"
+  bio              : "A PhD Student of Wuhan University"
+  location         : "Wuhan University, Wuhan, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=k9H8a5EAAAAJ"
