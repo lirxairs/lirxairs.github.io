@@ -2,15 +2,15 @@
 main:
   - title: "个人介绍"
     url: /teaching/ 
-
+    
+  - title: "研究方向"
+    url: /portfolio/
+    
   - title: "新闻公告"
     url: /talks/    
     
   - title: "科研成果"
     url: /publications/    
-   
-  - title: "Portfolio"
-    url: /portfolio/
         
   - title: "博客"
     url: /year-archive/
