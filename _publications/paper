@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Optical and microwave control of germanium-vacancy center spins in diamond"
 collection: publications
-permalink: /publication/paper
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publications/paper
+venue: "Physical Review B"
+date: 2017-08-18
+citation: 'Petr Siyushev, et al. <i>Phys. Rev. B 96, 081201(R), 2017</i>'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[[PhysRevB2017]](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.081201)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+## Abstract
+A solid-state system combining a stable spin degree of freedom with an efficient optical interface is highly desirable as an element for integrated quantum-optical and quantum-information systems. We demonstrate a bright color center in diamond with excellent optical properties and controllable electronic spin states. Specifically, we carry out detailed optical spectroscopy of a germanium-vacancy (GeV) color center demonstrating optical spectral stability. Using an external magnetic field to lift the electronic spin degeneracy, we explore the spin degree of freedom as a controllable qubit. Spin polarization is achieved using optical pumping, and a spin relaxation time in excess of 20 μs is demonstrated. We report resonant microwave control of spin transitions, and use this as a probe to measure the Autler-Townes effect in a microwave-optical double-resonance experiment. Superposition spin states were prepared using coherent population trapping, and a pure dephasing time of about 
+19 ns was observed at a temperature of 2.0 K.
