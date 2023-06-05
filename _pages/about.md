@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m Ruixiang Li, a PhD candidate at Wuhan University. My advisors are Ming Wang and Jun Pan and I am member of the RsOne labs in the LIESMARS.
+I am Ruixiang Li, a PhD candidate at Wuhan University. My advisors is Prof. Mi Wang, who provide valuable guidance throughout my research journey. Additionally, I am proud to be a member of the RsOne labs, which is a part of the LIESMARS (Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing) at Wuhan University.
 
 新闻资讯
 ======
