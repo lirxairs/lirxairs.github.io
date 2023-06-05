@@ -1,14 +1,12 @@
 ---
-title: "Optical and microwave control of germanium-vacancy center spins in diamond"
+title: "Automatic Matching of Multispectral Images Based on Nonlinear Diffusion of Image Structures"
 collection: publications
 permalink: /publications/MMSC
-venue: "Physical Review B"
-date: 2017-08-18
-citation: 'Petr Siyushev, et al. <i>Phys. Rev. B 96, 081201(R), 2017</i>'
+venue: "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing"
+date: 2021-12
 ---
 
-[[PhysRevB2017]](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.081201)
+[[MMSC2021]](https://ieeexplore.ieee.org/document/9286545/)
 
 ## Abstract
-A solid-state system combining a stable spin degree of freedom with an efficient optical interface is highly desirable as an element for integrated quantum-optical and quantum-information systems. We demonstrate a bright color center in diamond with excellent optical properties and controllable electronic spin states. Specifically, we carry out detailed optical spectroscopy of a germanium-vacancy (GeV) color center demonstrating optical spectral stability. Using an external magnetic field to lift the electronic spin degeneracy, we explore the spin degree of freedom as a controllable qubit. Spin polarization is achieved using optical pumping, and a spin relaxation time in excess of 20 μs is demonstrated. We report resonant microwave control of spin transitions, and use this as a probe to measure the Autler-Townes effect in a microwave-optical double-resonance experiment. Superposition spin states were prepared using coherent population trapping, and a pure dephasing time of about 
-19 ns was observed at a temperature of 2.0 K.
+Imaging with different spectrums often leads to signiﬁcant nonlinear differences in the intensity, which brings a great challenge to the automatic matching of multispectral images. Considering that there are often limitations to only using intensity information, this article studies multispectral image matching based on the structure consistency. First, an extended log-Gabor ﬁlter is constructed to build phase congruency maps, which encodes the structure information and provides rich and robust features. Then, a nonlinear diffusion-based algorithm is developed to detect the salient feature points on the phase congruency map, which are expected to be illumination and contrast invariant. Finally, the structure descriptors are built according to the orientation of the maximum log-Gabor ﬁlter responses, and the image matching is achieved by computing the correspondence. Extensive experiments are carried out on various multispectral image datasets. The results show that the proposed method holds a stable performance over the nonlinear intensity variance across spectrums, and outperforms the comparison methods in terms of the number of correct matches and the matching precision.
