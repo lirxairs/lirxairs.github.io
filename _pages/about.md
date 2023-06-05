@@ -7,28 +7,27 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I’m Ruixiang Li, a PhD candidate at Wuhan University. My advisors are Ming Wang and Jun Pan and I am member of the RsOne labs in the LIESMARS.
 
 新闻资讯
 ======
-**[2023.12]** One paper is accepted by ISPRS P&RS (link, code) !
+- **[2023.12]** One paper is accepted by ISPRS P&RS ([link](https://lirxairs.github.io/), [code](https://lirxairs.github.io/)) !
 
-**[2023.09]** One paper is accepted by 武汉大学学报(信息科学版) (link) !
+- **[2023.09]** One paper is accepted by 武汉大学学报(信息科学版) ([link](https://lirxairs.github.io/), [code](https://lirxairs.github.io/)) !
 
-**[2023.08]** One paper is accepted by IEEE TGRS (link, code) !
+- **[2023.08]** One paper is accepted by IEEE TGRS ([link](https://lirxairs.github.io/), [code](https://lirxairs.github.io/)) !
 
-**[2023.06]** One paper is accepted by IEEE JSTARS (link, code) !
+- **[2023.06]** One paper is accepted by IEEE JSTARS ([link](https://lirxairs.github.io/), [code](https://lirxairs.github.io/)) !
 
-**[2023.05]** One paper is accepted by RS (link, code) !
+- **[2023.05]** One paper is accepted by RS ([link](https://lirxairs.github.io/), [code](https://lirxairs.github.io/)) !
+
+- **[2022.09]** I am starting my PhD at Wuhan University at the School of Cyber Science and Engineering.
 
 研究兴趣
 ======
-遥感影像深度学习
+- 遥感影像辐射/几何一致性处理
 
-遥感影像质量提升
-
-大区域遥感影像智能镶嵌
+- SAR卫星几何定标
 
 Site-wide configuration
 ------
@@ -37,11 +36,6 @@ The main configuration file for the site is in the base directory in [_config.ym
 Create content & metadata
 ------
 For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
 How to edit your site's GitHub repository
 ------
