@@ -1,18 +1,18 @@
 # main links links
 main:
-  - title: "个人介绍"
+  - title: "People"
     url: /teaching/ 
     
-  - title: "研究方向"
+  - title: "Research Topic"
     url: /portfolio/
     
-  - title: "新闻公告"
+  - title: "News"
     url: /talks/    
     
-  - title: "科研成果"
+  - title: "Publications"
     url: /publications/    
         
-  - title: "博客"
+  - title: "Blog Posts"
     url: /year-archive/
     
   - title: "CV"
