@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in College of Civil Engineering, Henan University of Engineering, 2016
 * M.S. in School of Surveying and Land Information Engineering, Henan Polytechnic University, 2021
-* Ph.D in School of Cyber Science and Engineering, Wuhan University, 2026 (expected). Supervisor: Prof. Mi Wang
+* Ph.D. in School of Cyber Science and Engineering, Wuhan University, 2026 (expected). Supervisor: Prof. Mi Wang
 
 Work experience
 ======
