@@ -1,12 +1,15 @@
 ---
-title: "Automatic Matching of Multispectral Images Based on Nonlinear Diffusion of Image Structures"
+title: "Paper Title Number 1"
 collection: publications
-permalink: /publications/MMSC
-venue: "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing"
-date: 2021-12
+permalink: /publication/MMSC
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+This paper is about the number 1. The number 2 is left for future work.
 
-[[MMSC2021]](https://ieeexplore.ieee.org/document/9286545/)
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-## Abstract
-Imaging with different spectrums often leads to signiﬁcant nonlinear differences in the intensity, which brings a great challenge to the automatic matching of multispectral images. Considering that there are often limitations to only using intensity information, this article studies multispectral image matching based on the structure consistency. First, an extended log-Gabor ﬁlter is constructed to build phase congruency maps, which encodes the structure information and provides rich and robust features. Then, a nonlinear diffusion-based algorithm is developed to detect the salient feature points on the phase congruency map, which are expected to be illumination and contrast invariant. Finally, the structure descriptors are built according to the orientation of the maximum log-Gabor ﬁlter responses, and the image matching is achieved by computing the correspondence. Extensive experiments are carried out on various multispectral image datasets. The results show that the proposed method holds a stable performance over the nonlinear intensity variance across spectrums, and outperforms the comparison methods in terms of the number of correct matches and the matching precision.
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
