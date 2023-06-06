@@ -7,27 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Ruixiang Li, a PhD candidate at Wuhan University. My advisors is Prof. Mi Wang, who provide valuable guidance throughout my research journey. Additionally, I am proud to be a member of the RsOne labs, which is a part of the LIESMARS (Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing) at Wuhan University.
+I am Rui Xiang Li, a Ph.D. candidate at Wuhan University. My advisor is Professor Mi Wang, who has provided invaluable guidance throughout my research journey. Additionally, I take great pride in being a member of the [RsOne](http://rsone.whu.edu.cn/) Laboratory, which is part of [LIESMARS](http://liesmars.whu.edu.cn/).
 
-新闻资讯
+News
 ======
-- **[2023.12]** One paper is accepted by ISPRS P&RS ([link](https://lirxairs.github.io/), [code](https://lirxairs.github.io/)) !
-
-- **[2023.09]** One paper is accepted by 武汉大学学报(信息科学版) ([link](https://lirxairs.github.io/), [code](https://lirxairs.github.io/)) !
-
-- **[2023.08]** One paper is accepted by IEEE TGRS ([link](https://lirxairs.github.io/), [code](https://lirxairs.github.io/)) !
-
-- **[2023.06]** One paper is accepted by IEEE JSTARS ([link](https://lirxairs.github.io/), [code](https://lirxairs.github.io/)) !
-
-- **[2023.05]** One paper is accepted by RS ([link](https://lirxairs.github.io/), [code](https://lirxairs.github.io/)) !
-
 - **[2022.09]** I am starting my PhD at Wuhan University at the School of Cyber Science and Engineering.
+- 
+- **[2021.12]** One paper is accepted by IEEE JSTARS ([link](https://ieeexplore.ieee.org/document/9286545/), [code](https://lirxairs.github.io/)) !
 
-研究兴趣
+Research Topic
 ======
-- 遥感影像辐射/几何一致性处理
+- Geometric and Radiometric Consistency Processing of Remote Sensing Images
 
-- SAR卫星几何定标
+- High-Resolution Optical/SAR Satellite Geometric Radiometric Calibration
 
 For more info
 ------
