@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 I am Rui Xiang Li, a Ph.D. candidate at Wuhan University. My advisor is Professor Mi Wang, who has provided invaluable guidance throughout my research journey. Additionally, I take great pride in being a member of the [RsOne](http://rsone.whu.edu.cn/) Laboratory, which is part of [LIESMARS](http://liesmars.whu.edu.cn/).
 
 News
