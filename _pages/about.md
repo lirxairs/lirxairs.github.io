@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Rui Xiang Li, a Ph.D. candidate at Wuhan University. My advisor is Professor Mi Wang, who has provided invaluable guidance throughout my research journey. Additionally, I take great pride in being a member of the [RsOne](http://rsone.whu.edu.cn/) Laboratory, which is part of [LIESMARS](http://liesmars.whu.edu.cn/).
+I am Ruixiang Li, a Ph.D. candidate at Wuhan University. My advisor is Professor Mi Wang, who has provided invaluable guidance throughout my research journey. Additionally, I take great pride in being a member of the [RsOne](http://rsone.whu.edu.cn/), which is part of [LIESMARS](http://liesmars.whu.edu.cn/).
 
 News
 ======
-- **[2022.09]** I am starting my PhD at Wuhan University at the School of Cyber Science and Engineering.
+- **[2022.09]** I am starting my Ph.D. at Wuhan University at the School of Cyber Science and Engineering.
 
 - **[2020.12]** One paper is accepted by IEEE JSTARS ([link](https://ieeexplore.ieee.org/document/9286545/), [code](https://lirxairs.github.io/)) !
 
