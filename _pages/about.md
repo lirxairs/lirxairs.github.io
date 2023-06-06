@@ -14,7 +14,7 @@ News
 ======
 - **[2022.09]** I am starting my PhD at Wuhan University at the School of Cyber Science and Engineering.
 
-- **[2021.12]** One paper is accepted by IEEE JSTARS ([link](https://ieeexplore.ieee.org/document/9286545/), [code](https://lirxairs.github.io/)) !
+- **[2020.12]** One paper is accepted by IEEE JSTARS ([link](https://ieeexplore.ieee.org/document/9286545/), [code](https://lirxairs.github.io/)) !
 
 Research Topic
 ======
