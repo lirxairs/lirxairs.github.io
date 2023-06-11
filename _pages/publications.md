@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: false
+author_profile: true
 ---
 
 <!-- {% if author.googlescholar %} -->
@@ -15,7 +15,7 @@ author_profile: false
 </style>
 
 {% include base_path %}
-You can also find my papers on <a href="https://scholar.google.com/citations?user=oCqKAnsAAAAJ&hl=en">Google Scholar</a>.
+You can also find my papers on <a href="[https://scholar.google.com/citations?user=oCqKAnsAAAAJ&hl=en](https://scholar.google.com/citations?hl=en&user=k9H8a5EAAAAJ)">Google Scholar</a>.
 
 -----------
 
