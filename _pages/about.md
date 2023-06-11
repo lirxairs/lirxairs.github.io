@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Ruixiang Li, a Ph.D. candidate at Wuhan University. My advisor is Professor Mi Wang, who has provided invaluable guidance throughout my research journey. Additionally, I take great pride in being a member of the [RsOne](http://rsone.whu.edu.cn/), which is part of [LIESMARS](http://liesmars.whu.edu.cn/).
+🚀👨‍💻🥁💡Hi, my name is Ruixiang Li💡🥁👨‍💻🚀. I am a second-year Ph.D student at Wuhan University(WHU) at [RsOne](http://rsone.whu.edu.cn/) Lab. I am now working under the supervision of Prof.Mi Wang.
 
 News
 ======
