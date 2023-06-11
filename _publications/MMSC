@@ -1,10 +1,12 @@
 ---
 title: "Automatic Matching of Multispectral Images Based on Nonlinear Diffusion of Image Structures"
 collection: publications
-excerpt: '<u>Ruixiang Li</u>, Haitao Zhao, Xiaoye. Zhang, Xiaosan Ge, Zhanliang Yuan and Qin Zou'
+permalink: /publications/MMSC
 date: 2020-12-08
+citation:  <u>Ruixiang Li</u>, Haitao Zhao, Xiaoye. Zhang, Xiaosan Ge, Zhanliang Yuan and Qin Zou
 venue: 'IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing'
 ---
+
 Imaging with different spectrums often leads to signiﬁcant nonlinear differences in the intensity, which brings a great challenge to the automatic matching of multispectral images. Considering that there are often limitations to only using intensity information, this article studies multispectral image matching based on the structure consistency. First, an extended log-Gabor ﬁlter is constructed to build phase congruency maps, which encodes the structure information and provides rich and robust features. Then, a nonlinear diffusion-based algorithm is developed to detect the salient feature points on the phase congruency map, which are expected to be illumination and contrast invariant. Finally, the structure descriptors are built according to the orientation of the maximum log-Gabor ﬁlter responses, and the image matching is achieved by computing the correspondence. Extensive experiments are carried out on various multispectral image datasets. The results show that the proposed method holds a stable performance over the nonlinear intensity variance across spectrums, and outperforms the comparison methods in terms of the number of correct matches and the matching precision.
 <br><img src='/images/MMSCProcess.png'>
 <p align="center">Illustration of matching by using MMSC</p>
