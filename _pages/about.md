@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🚀👨‍💻🥁💡Hi, my name is Ruixiang Li💡🥁👨‍💻🚀. I am a second-year Ph.D student at Wuhan University(WHU) at [RsOne](http://rsone.whu.edu.cn/) Lab. I am now working under the supervision of Prof.Mi Wang.
+🚀👨‍💻🥁💡Hi, my name is Ruixiang Li💡🥁👨‍💻🚀. I am a Ph.D candidate at Wuhan University(WHU) at [RsOne](http://rsone.whu.edu.cn/) Lab. I am now working under the supervision of Prof.Mi Wang.
 
 News
 ======
